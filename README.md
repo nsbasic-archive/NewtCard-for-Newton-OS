@@ -12,5 +12,8 @@ I have no idea how to get the [Newton Toolkit](https://www.macintoshrepository.o
 
 There are a number of documents with no extension. These are probably in [WordPerfect](https://en.wikipedia.org/wiki/WordPerfect) format.
 
+NewtCard was released in 1996. Development ended with the cancellation of the Newton in 1997.
+During its short life, it won all the major software awards for Newton OS software.
+
 George Henne
  
